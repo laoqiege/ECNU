@@ -1,3 +1,4 @@
 # ECNU
-I'm a student
-I love machine learning
+I'm a student/n
+I love machine learning/n
+I love studying
