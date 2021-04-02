@@ -1,1 +1,3 @@
-Git is a free software
+I like learning
+I like DeepLearning
+I hate lol
